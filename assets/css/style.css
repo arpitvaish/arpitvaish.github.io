@@ -1083,9 +1083,7 @@ section {
 
 
 .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
-    width: 100%;
-    padding-right: 4%;
-    padding-left: 22%;
-    margin-right: auto;
-    margin-left: auto;
+
+    padding-left: 10%;
+
  }
